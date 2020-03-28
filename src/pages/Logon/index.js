@@ -5,7 +5,6 @@ import {FiLogIn} from 'react-icons/fi';
 import api from '../../services/api';
 
 
-
 import './style.css';
 
 import logoImg from '../../assets/logo.svg';
